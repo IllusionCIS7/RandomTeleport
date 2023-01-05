@@ -1,0 +1,6 @@
+name: RandomTeleport
+version: 1.0.0
+main: org.mp98.plugins.mc.RandomTeleport.RandomTeleport
+description: Teleports every Player on first Join
+author: IllusionCIS7
+api-version: 1.19

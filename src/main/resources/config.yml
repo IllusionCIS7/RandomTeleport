@@ -1,0 +1,15 @@
+maxX: 5000      # Max random number for x-coordinate
+maxZ: 5000      # max random number for z-coordinate
+
+safeTeleport: true    # check if destination-ground is safe (not lava or water)
+
+max-tokens:
+  free: 3             # -1 infinite even, if vault is enabled
+  buyable: -1         # -1 = infinite
+
+vault:                # use vault, so player can pay for rtp-tokens
+  enabled: false      # if disabled, RTPs are free
+  cost: 100           # price per rtp-token
+
+griefprevention:      # use GriefPrevention-Integration to check if destination is claimed
+  enabled: false      # if enabled the player won't be teleported to claimed land

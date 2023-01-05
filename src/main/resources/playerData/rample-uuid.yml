@@ -1,0 +1,22 @@
+free-token:
+  remaining:
+  used:
+    - 123345564:    # timestamp used
+        x: 3124
+        y: 74
+        z: -2356
+    - 123234356:    # timestamp used
+        x:
+        y:
+        z:
+
+buyed-token:
+  remaining:
+    - 12543455:     # timestamp buy
+    - 12354566:     # timestamp buy
+  used:
+    - 12323555:     # timestamp used
+        buyed: 1233455
+        x:
+        y:
+        z:

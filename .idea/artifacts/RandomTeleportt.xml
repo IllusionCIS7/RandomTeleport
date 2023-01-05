@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RandomTeleportt">
+    <output-path>$PROJECT_DIR$/out/artifacts/RandomTeleportt</output-path>
+    <root id="archive" name="RandomTeleportt.jar">
+      <element id="module-output" name="RandomTeleport.main" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/plugin.yml" />
+    </root>
+  </artifact>
+</component>
